@@ -6,7 +6,7 @@
 <div align="center">
   <h1 style="margin:0; padding:0;">AI <span style="color:#f29191;">Researcher</span></h1>
   <p>
-    <a href="./Chanhee_Lee_CV_2025_08.pdf"><b>CV</b></a> ·
+    <a href="./Chanhee_Lee_CV_2026_02.pdf"><b>CV</b></a> ·
     <a href="mailto:leechanhye3722@gmail.com">Email</a>
   </p>
 </div>
